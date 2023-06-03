@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img src="gif/app.gif" width="300" height="600" />
+<img src="./gif/app.gif" width="300" height="600" />
 
 ## Getting Started
 
